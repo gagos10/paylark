@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://gagos10.github.io/paylark/sitemap.xml
